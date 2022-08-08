@@ -23,13 +23,8 @@ googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;
 
 # URL settings
 url: aezi-ftbl.com
-baseurl: # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
+baseurl: /
 permalink: pretty
-
-# local
-# url: "http://localhost:4000" # 
-# baseurl: "" # 
-
 
 markdown: kramdown
 kramdown:
