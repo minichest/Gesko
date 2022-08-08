@@ -8,6 +8,7 @@ timezone:  Europe/London
 repo: https://github.com/minichest/aeziF # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 discus-identifier: gravite # replace with your disqus shortname
+image: https://avatars.githubusercontent.com/u/35664052?v=4
 
 author:
   name: aezi
