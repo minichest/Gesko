@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://DavideBrie.github.io/sitemap.xml
+Sitemap: aezi-ftbl.com/sitemap.xml
