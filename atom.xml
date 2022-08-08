@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>aeziFtbl</title>
- <link href="aezi-ftbl.com/atom.xml" rel="self"/>
- <link href="aezi-ftbl.com/"/>
- <updated>2022-08-08T04:35:09+01:00</updated>
+ <link href="aezi-ftbl.com//atom.xml" rel="self"/>
+ <link href="aezi-ftbl.com//"/>
+ <updated>2022-08-08T04:38:35+01:00</updated>
  <id>aezi-ftbl.com</id>
  <author>
    <name>aezi</name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>Post Match Analysis - West Ham vs Manchester City</title>
-   <link href="aezi-ftbl.com/2022/08/08/post-match-thoughts-on-west-ham-vs-manchester-city"/>
+   <link href="aezi-ftbl.com//2022/08/08/post-match-thoughts-on-west-ham-vs-manchester-city"/>
    <updated>2022-08-08T00:00:00+01:00</updated>
    <id>aezi-ftbl.com/2022/08/08/post-match-thoughts-on-west-ham-vs-manchester-city</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/media/FZk5HctWIAAlL9P?format=jpg&amp;amp;name=360x360&quot; alt=&quot;The Team&quot; /&gt;&lt;/p&gt;
