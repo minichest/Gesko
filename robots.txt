@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: aezi-ftbl.com/sitemap.xml
+Sitemap: https://aezi-ftbl.com/sitemap.xml
