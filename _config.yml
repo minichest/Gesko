@@ -23,7 +23,7 @@ googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;
 
 # URL settings
 url: https://aezi-ftbl.com
-baseurl: /
+baseurl: #
 permalink: pretty
 
 markdown: kramdown
