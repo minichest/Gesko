@@ -1,13 +1,13 @@
 site: aeziFTbl
-title: aeziFtbl
-greetings: Hi. Hello. Welcome. Thanks for coming to my mini football blog. 👋
-description: >-
-    This is pretty much my Blog on football. We can talk about specific players and teams as well as predictions on certain sport events. This site is currently being operated and maintained by aezi, hope you enjoy its contents.
-lang: en-UK
-timezone:  Europe/London
-repo: https://github.com/minichest/aeziF # site repo [optional]
-data-theme: dark # default theme "dark" | "light"
-discus-identifier: gravite # replace with your disqus shortname
+  title: aeziFtbl
+  greetings: Hi. Hello. Welcome. Thanks for coming to my mini football blog. 👋
+  description: >-
+      This is pretty much my Blog on football. We can talk about specific players and teams as well as predictions on certain sport events. This site is currently being operated and maintained by aezi, hope you enjoy its contents.
+  lang: en-UK
+  timezone:  Europe/London
+  repo: https://github.com/minichest/aeziF # site repo [optional]
+  data-theme: dark # default theme "dark" | "light"
+  discus-identifier: gravite # replace with your disqus shortname
 
 author:
   name: aezi
